@@ -1,3 +1,2 @@
 # REPO-Otus# REPO-Otus
-Good day ,Dear Teacher !
-test
+Guliz Guliz Guliz
