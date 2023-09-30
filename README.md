@@ -1,6 +1,6 @@
 # REPO-Otus
 Hello,That is my First program
-Simmple C++ prog
+Simple C++ prog
 
 int main () {  
     
