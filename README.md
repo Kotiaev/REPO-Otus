@@ -1,2 +1,7 @@
 # REPO-Otus
-Good day,Dear Teacher !
+Hello,That is my Second program
+Simmple C++ prog
+
+int main () {  
+    
+} 
