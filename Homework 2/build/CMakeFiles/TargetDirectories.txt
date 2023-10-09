@@ -1,3 +1,0 @@
-C:/Users/Админ/Desktop/Homework 2/build/CMakeFiles/move_me_out.dir
-C:/Users/Админ/Desktop/Homework 2/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/Админ/Desktop/Homework 2/build/CMakeFiles/ZERO_CHECK.dir
